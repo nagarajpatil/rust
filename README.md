@@ -1,2 +1,2 @@
 # rust
-Sample Apps
+Sample UWP App
